@@ -11,4 +11,5 @@
 	*  Set a breakpoint at line 1
 * Open passing_function.html
 * Open callbacks.html
+* Open self_invoking_functions.html
 
