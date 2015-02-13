@@ -2,7 +2,8 @@
 // Little bit like using a block in Ruby
 // But, this is more powerful.
 var doItWithFunc = function(cmd){
-   var x = 5, cmdResult =  cmd(x);
+   var x = 5,
+       cmdResult =  cmd(x);
     return cmdResult;
 };
 
